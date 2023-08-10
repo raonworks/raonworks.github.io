@@ -9,9 +9,9 @@ author:
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+zip_code: 01411
+country: Korea
+phone: (010) 8873-7872
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
