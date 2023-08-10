@@ -1,10 +1,11 @@
 # site settings
 title: devHong
-subtitle: Backend Developer
+subtitle: Best Developer
 email: popodaddy@gmail.com
 description: 명품 개발자
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://github.com/raonworks/raonworks.github.io
+#url: https://github.com/raonworks/raonworks.github.io
+url: https://raonworks.github.io
 author:
 street_address: 부천시 지봉로
 city: 경기도
